@@ -1,0 +1,31 @@
+c:\users\nchamberlain\documents\visual studio 2015\Projects\dynamic\dynamic\bin\Release\Dynamic.dll
+c:\users\nchamberlain\documents\visual studio 2015\Projects\dynamic\dynamic\bin\Release\Dynamic.pdb
+c:\users\nchamberlain\documents\visual studio 2015\Projects\dynamic\dynamic\bin\Release\xunit.abstractions.dll
+c:\users\nchamberlain\documents\visual studio 2015\Projects\dynamic\dynamic\bin\Release\xunit.assert.dll
+c:\users\nchamberlain\documents\visual studio 2015\Projects\dynamic\dynamic\bin\Release\xunit.core.dll
+c:\users\nchamberlain\documents\visual studio 2015\Projects\dynamic\dynamic\bin\Release\xunit.execution.desktop.dll
+c:\users\nchamberlain\documents\visual studio 2015\Projects\dynamic\dynamic\bin\Release\xunit.abstractions.xml
+c:\users\nchamberlain\documents\visual studio 2015\Projects\dynamic\dynamic\bin\Release\xunit.assert.pdb
+c:\users\nchamberlain\documents\visual studio 2015\Projects\dynamic\dynamic\bin\Release\xunit.assert.xml
+c:\users\nchamberlain\documents\visual studio 2015\Projects\dynamic\dynamic\bin\Release\xunit.core.pdb
+c:\users\nchamberlain\documents\visual studio 2015\Projects\dynamic\dynamic\bin\Release\xunit.core.xml
+c:\users\nchamberlain\documents\visual studio 2015\Projects\dynamic\dynamic\bin\Release\xunit.execution.desktop.pdb
+c:\users\nchamberlain\documents\visual studio 2015\Projects\dynamic\dynamic\bin\Release\xunit.execution.desktop.xml
+c:\users\nchamberlain\documents\visual studio 2015\Projects\dynamic\dynamic\obj\Release\Dynamic.dll
+c:\users\nchamberlain\documents\visual studio 2015\Projects\dynamic\dynamic\obj\Release\Dynamic.pdb
+C:\Users\nickc\Dropbox\dynamic\dynamic\bin\Release\Dynamic.dll
+C:\Users\nickc\Dropbox\dynamic\dynamic\bin\Release\Dynamic.pdb
+C:\Users\nickc\Dropbox\dynamic\dynamic\bin\Release\xunit.abstractions.dll
+C:\Users\nickc\Dropbox\dynamic\dynamic\bin\Release\xunit.assert.dll
+C:\Users\nickc\Dropbox\dynamic\dynamic\bin\Release\xunit.core.dll
+C:\Users\nickc\Dropbox\dynamic\dynamic\bin\Release\xunit.execution.desktop.dll
+C:\Users\nickc\Dropbox\dynamic\dynamic\bin\Release\xunit.abstractions.xml
+C:\Users\nickc\Dropbox\dynamic\dynamic\bin\Release\xunit.assert.pdb
+C:\Users\nickc\Dropbox\dynamic\dynamic\bin\Release\xunit.assert.xml
+C:\Users\nickc\Dropbox\dynamic\dynamic\bin\Release\xunit.core.pdb
+C:\Users\nickc\Dropbox\dynamic\dynamic\bin\Release\xunit.core.xml
+C:\Users\nickc\Dropbox\dynamic\dynamic\bin\Release\xunit.execution.desktop.pdb
+C:\Users\nickc\Dropbox\dynamic\dynamic\bin\Release\xunit.execution.desktop.xml
+C:\Users\nickc\Dropbox\dynamic\dynamic\obj\Release\Dynamic.csprojResolveAssemblyReference.cache
+C:\Users\nickc\Dropbox\dynamic\dynamic\obj\Release\Dynamic.dll
+C:\Users\nickc\Dropbox\dynamic\dynamic\obj\Release\Dynamic.pdb

@@ -1,0 +1,16 @@
+c:\Users\nchamberlain\documents\visual studio 2015\Projects\dynamic\Dynamic.Tests\bin\Debug\Dynamic.Tests.dll
+c:\Users\nchamberlain\documents\visual studio 2015\Projects\dynamic\Dynamic.Tests\bin\Debug\Dynamic.Tests.pdb
+c:\Users\nchamberlain\documents\visual studio 2015\Projects\dynamic\Dynamic.Tests\bin\Debug\xunit.abstractions.dll
+c:\Users\nchamberlain\documents\visual studio 2015\Projects\dynamic\Dynamic.Tests\bin\Debug\xunit.assert.dll
+c:\Users\nchamberlain\documents\visual studio 2015\Projects\dynamic\Dynamic.Tests\bin\Debug\xunit.core.dll
+c:\Users\nchamberlain\documents\visual studio 2015\Projects\dynamic\Dynamic.Tests\bin\Debug\xunit.execution.desktop.dll
+c:\Users\nchamberlain\documents\visual studio 2015\Projects\dynamic\Dynamic.Tests\bin\Debug\xunit.abstractions.xml
+c:\Users\nchamberlain\documents\visual studio 2015\Projects\dynamic\Dynamic.Tests\bin\Debug\xunit.assert.pdb
+c:\Users\nchamberlain\documents\visual studio 2015\Projects\dynamic\Dynamic.Tests\bin\Debug\xunit.assert.xml
+c:\Users\nchamberlain\documents\visual studio 2015\Projects\dynamic\Dynamic.Tests\bin\Debug\xunit.core.pdb
+c:\Users\nchamberlain\documents\visual studio 2015\Projects\dynamic\Dynamic.Tests\bin\Debug\xunit.core.xml
+c:\Users\nchamberlain\documents\visual studio 2015\Projects\dynamic\Dynamic.Tests\bin\Debug\xunit.execution.desktop.pdb
+c:\Users\nchamberlain\documents\visual studio 2015\Projects\dynamic\Dynamic.Tests\bin\Debug\xunit.execution.desktop.xml
+c:\Users\nchamberlain\documents\visual studio 2015\Projects\dynamic\Dynamic.Tests\obj\Debug\Dynamic.Tests.csprojResolveAssemblyReference.cache
+c:\Users\nchamberlain\documents\visual studio 2015\Projects\dynamic\Dynamic.Tests\obj\Debug\Dynamic.Tests.dll
+c:\Users\nchamberlain\documents\visual studio 2015\Projects\dynamic\Dynamic.Tests\obj\Debug\Dynamic.Tests.pdb

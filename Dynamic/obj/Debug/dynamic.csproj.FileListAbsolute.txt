@@ -1,0 +1,16 @@
+c:\users\nchamberlain\documents\visual studio 2015\Projects\dynamic\dynamic\bin\Debug\Dynamic.dll
+c:\users\nchamberlain\documents\visual studio 2015\Projects\dynamic\dynamic\bin\Debug\Dynamic.pdb
+c:\users\nchamberlain\documents\visual studio 2015\Projects\dynamic\dynamic\bin\Debug\xunit.abstractions.dll
+c:\users\nchamberlain\documents\visual studio 2015\Projects\dynamic\dynamic\bin\Debug\xunit.assert.dll
+c:\users\nchamberlain\documents\visual studio 2015\Projects\dynamic\dynamic\bin\Debug\xunit.core.dll
+c:\users\nchamberlain\documents\visual studio 2015\Projects\dynamic\dynamic\bin\Debug\xunit.execution.desktop.dll
+c:\users\nchamberlain\documents\visual studio 2015\Projects\dynamic\dynamic\bin\Debug\xunit.abstractions.xml
+c:\users\nchamberlain\documents\visual studio 2015\Projects\dynamic\dynamic\bin\Debug\xunit.assert.pdb
+c:\users\nchamberlain\documents\visual studio 2015\Projects\dynamic\dynamic\bin\Debug\xunit.assert.xml
+c:\users\nchamberlain\documents\visual studio 2015\Projects\dynamic\dynamic\bin\Debug\xunit.core.pdb
+c:\users\nchamberlain\documents\visual studio 2015\Projects\dynamic\dynamic\bin\Debug\xunit.core.xml
+c:\users\nchamberlain\documents\visual studio 2015\Projects\dynamic\dynamic\bin\Debug\xunit.execution.desktop.pdb
+c:\users\nchamberlain\documents\visual studio 2015\Projects\dynamic\dynamic\bin\Debug\xunit.execution.desktop.xml
+c:\users\nchamberlain\documents\visual studio 2015\Projects\dynamic\dynamic\obj\Debug\dynamic.csprojResolveAssemblyReference.cache
+c:\users\nchamberlain\documents\visual studio 2015\Projects\dynamic\dynamic\obj\Debug\Dynamic.dll
+c:\users\nchamberlain\documents\visual studio 2015\Projects\dynamic\dynamic\obj\Debug\Dynamic.pdb

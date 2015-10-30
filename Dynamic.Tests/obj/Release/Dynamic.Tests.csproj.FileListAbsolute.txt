@@ -1,0 +1,32 @@
+c:\Users\nchamberlain\documents\visual studio 2015\Projects\dynamic\Dynamic.Tests\bin\Release\Dynamic.Tests.dll
+c:\Users\nchamberlain\documents\visual studio 2015\Projects\dynamic\Dynamic.Tests\bin\Release\Dynamic.Tests.pdb
+c:\Users\nchamberlain\documents\visual studio 2015\Projects\dynamic\Dynamic.Tests\bin\Release\xunit.abstractions.dll
+c:\Users\nchamberlain\documents\visual studio 2015\Projects\dynamic\Dynamic.Tests\bin\Release\xunit.assert.dll
+c:\Users\nchamberlain\documents\visual studio 2015\Projects\dynamic\Dynamic.Tests\bin\Release\xunit.core.dll
+c:\Users\nchamberlain\documents\visual studio 2015\Projects\dynamic\Dynamic.Tests\bin\Release\xunit.execution.desktop.dll
+c:\Users\nchamberlain\documents\visual studio 2015\Projects\dynamic\Dynamic.Tests\bin\Release\xunit.abstractions.xml
+c:\Users\nchamberlain\documents\visual studio 2015\Projects\dynamic\Dynamic.Tests\bin\Release\xunit.assert.pdb
+c:\Users\nchamberlain\documents\visual studio 2015\Projects\dynamic\Dynamic.Tests\bin\Release\xunit.assert.xml
+c:\Users\nchamberlain\documents\visual studio 2015\Projects\dynamic\Dynamic.Tests\bin\Release\xunit.core.pdb
+c:\Users\nchamberlain\documents\visual studio 2015\Projects\dynamic\Dynamic.Tests\bin\Release\xunit.core.xml
+c:\Users\nchamberlain\documents\visual studio 2015\Projects\dynamic\Dynamic.Tests\bin\Release\xunit.execution.desktop.pdb
+c:\Users\nchamberlain\documents\visual studio 2015\Projects\dynamic\Dynamic.Tests\bin\Release\xunit.execution.desktop.xml
+c:\Users\nchamberlain\documents\visual studio 2015\Projects\dynamic\Dynamic.Tests\obj\Release\Dynamic.Tests.dll
+c:\Users\nchamberlain\documents\visual studio 2015\Projects\dynamic\Dynamic.Tests\obj\Release\Dynamic.Tests.pdb
+c:\Users\nchamberlain\documents\visual studio 2015\Projects\dynamic\Dynamic.Tests\obj\Release\Dynamic.Tests.csprojResolveAssemblyReference.cache
+C:\Users\nickc\Dropbox\dynamic\Dynamic.Tests\bin\Release\Dynamic.Tests.dll
+C:\Users\nickc\Dropbox\dynamic\Dynamic.Tests\bin\Release\Dynamic.Tests.pdb
+C:\Users\nickc\Dropbox\dynamic\Dynamic.Tests\bin\Release\xunit.abstractions.dll
+C:\Users\nickc\Dropbox\dynamic\Dynamic.Tests\bin\Release\xunit.assert.dll
+C:\Users\nickc\Dropbox\dynamic\Dynamic.Tests\bin\Release\xunit.core.dll
+C:\Users\nickc\Dropbox\dynamic\Dynamic.Tests\bin\Release\xunit.execution.desktop.dll
+C:\Users\nickc\Dropbox\dynamic\Dynamic.Tests\bin\Release\xunit.abstractions.xml
+C:\Users\nickc\Dropbox\dynamic\Dynamic.Tests\bin\Release\xunit.assert.pdb
+C:\Users\nickc\Dropbox\dynamic\Dynamic.Tests\bin\Release\xunit.assert.xml
+C:\Users\nickc\Dropbox\dynamic\Dynamic.Tests\bin\Release\xunit.core.pdb
+C:\Users\nickc\Dropbox\dynamic\Dynamic.Tests\bin\Release\xunit.core.xml
+C:\Users\nickc\Dropbox\dynamic\Dynamic.Tests\bin\Release\xunit.execution.desktop.pdb
+C:\Users\nickc\Dropbox\dynamic\Dynamic.Tests\bin\Release\xunit.execution.desktop.xml
+C:\Users\nickc\Dropbox\dynamic\Dynamic.Tests\obj\Release\Dynamic.Tests.csprojResolveAssemblyReference.cache
+C:\Users\nickc\Dropbox\dynamic\Dynamic.Tests\obj\Release\Dynamic.Tests.dll
+C:\Users\nickc\Dropbox\dynamic\Dynamic.Tests\obj\Release\Dynamic.Tests.pdb
